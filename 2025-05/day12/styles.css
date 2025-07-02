@@ -1,0 +1,5 @@
+.p-elements{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}

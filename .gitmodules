@@ -1,0 +1,6 @@
+[submodule "Library"]
+	path = Library
+	url = https://github.com/Daytuns/library-odinproject.git
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://github.com/Daytuns/tictactoe-odinproject.git
