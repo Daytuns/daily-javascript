@@ -1,0 +1,11 @@
+<!-- index.ejs -->
+<html>
+  <body>
+    <h1><%= title %></h1>
+    <ul>
+      <% messages.forEach(message => { %>
+        <li><%= message.text %></li>
+      <% }); %>
+    </ul>
+  </body>
+</html>
